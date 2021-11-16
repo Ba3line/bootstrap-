@@ -17232,6 +17232,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.navbar {
+  padding: 0;
+  margin: 0;
+}
+
 .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
   background-color: #32a2b8;
   height: 5vw;
@@ -17239,6 +17244,19 @@ textarea.form-control-lg {
 
 .imagecoding {
   width: 5%;
+}
+
+.contenuzebi {
+  margin: 0 20%;
+}
+
+#bg-info {
+  background-color: #32a2b8;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
 
 /*# sourceMappingURL=app.css.map */
