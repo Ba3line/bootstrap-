@@ -17232,5 +17232,13 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+  background-color: #32a2b8;
+  height: 5vw;
+}
+
+.imagecoding {
+  width: 5%;
+}
 
 /*# sourceMappingURL=app.css.map */
